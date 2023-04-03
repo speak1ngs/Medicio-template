@@ -163,7 +163,7 @@
 							<div class="form-group">
 								<span class="control-fileupload">
 									<label for="file">Sube una foto :</label>
-									<input type="file" id="file">
+									<input type="file" class="form-control" id="file">
 								</span>
 							</div>
 
