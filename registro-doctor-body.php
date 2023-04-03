@@ -169,7 +169,7 @@
 
 							<div class="form-group">
 								<label for="descript">Modificar descripcion</label>
-								<textarea name="text-description" id="descript" cols="120" rows="5"></textarea>
+								<textarea name="text-description" id="descript" class="form-control"cols="120" rows="5"></textarea>
 							</div>
 							<div class="form-group">
 								<label for="inputState">Seleccionar consultorio</label>
