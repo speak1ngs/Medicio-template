@@ -52,10 +52,14 @@ layout
 
 	.hid {
 		display: none;
+	
 	}
 
 
+
 }
+
+
 
 @media (min-width: 768px) {
 	#wrapper.boxed {
@@ -68,7 +72,7 @@ layout
 	#wrapper.boxed {
 		width: 1030px;
 	}
-	
+
 
 }
 
@@ -2390,9 +2394,6 @@ a.btn:focus {
 
 
 
-/* Theme Styler :: End */
-
-
 /* Media queries */
 
 @media (min-width: 768px) and (max-width: 979px) {
@@ -2403,10 +2404,16 @@ a.btn:focus {
 		width: 100%;
 	}
 
+
+
+
+
 	.intro-content {
 		padding: 250px 0 0;
 	}
+}
 
+@media (min-width:768px) and (max-width:991px) {
 	.hid {
 		display: none;
 	}
@@ -2462,6 +2469,7 @@ a.btn:focus {
 
 
 }
+
 
 @media (max-width:767px) {
 
@@ -2590,7 +2598,10 @@ a.btn:focus {
 	.my-flotante-turn {
 		margin-top:16px;
 	}
-	
+	.modal .modal-dialog{
+		/* width: 325px; */
+		width: calc(100% - 100px);
+	}
 
 }
 
@@ -2598,6 +2609,9 @@ a.btn:focus {
 
 
 @media (max-width:480px) {
+	#wrapper.boxed {
+		width: 100%;
+	}
 
 
 	.navbar-custom .nav.navbar-nav {
@@ -2610,6 +2624,7 @@ a.btn:focus {
 
 	.hid {
 		display: none;
+		
 	}
 
 	.box {
@@ -2666,14 +2681,17 @@ a.btn:focus {
 	.my-flotante-turn {
 		margin-top:16px;
 	}
-/* 	
-	.modal .modal-dialog{
-		width: 600px;
-	} */
+
 
 }
 
 @media (max-width:320px) {
+	
+	#wrapper.boxed {
+		width: 100%;
+	}
+
+
 	.navbar-brand {
 		text-align: center;
 		display: block;
@@ -3238,4 +3256,8 @@ progress {
     padding: 13px 20px;
     font-size: 13px;
     font-weight: 600;
+}
+
+.li-color{
+	color: #FFF;
 }

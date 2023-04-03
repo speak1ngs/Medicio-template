@@ -1,7 +1,7 @@
 <section id="register " class="home-section paddingtop-130 h-100 h-custom well">
 	<div class="py-5">
 		<div class="container well ">
-			<h2 class="text-center">Cambiar contraseña</h2>
+			<h2 class="text-center">Cambiar Correo</h2>
 
 			<div class="row bottom-password">
 

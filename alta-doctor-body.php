@@ -23,10 +23,12 @@
 							<td>Clinico</td>
 
 							<td>
-								<div class="row"> 
+								<div class="row">
 									<div class="form-group col-sm-4 bottom-p text-center">
-										<p data-placement="top" data-toggle="tooltip" title="Desactivar" class="bottom-p">
-											<button class="btn btn-danger btn-xs" data-title="doctorActive" data-toggle="modal" data-target="#doctorActive"><span
+										<p data-placement="top" data-toggle="tooltip" title="Desactivar"
+											class="bottom-p">
+											<button class="btn btn-danger btn-xs" data-title="doctorActive"
+												data-toggle="modal" data-target="#doctorActive"><span
 													class="fa fa-remove"></span></button>
 										</p>
 									</div>
@@ -39,7 +41,8 @@
 
 									<div class="form-group col-sm-4 bottom-p text-center">
 										<p data-placement="top" data-toggle="tooltip" title="Activar" class="bottom-p">
-											<button class="btn btn-success btn-xs" data-title="doctorActive" data-toggle="modal" data-target="#doctorActive"><span
+											<button class="btn btn-success btn-xs" data-title="doctorActive"
+												data-toggle="modal" data-target="#doctorActive"><span
 													class="fa fa-check-square-o"></span></button>
 										</p>
 
@@ -56,8 +59,10 @@
 							<td>
 								<div class="row">
 									<div class="form-group col-sm-4 bottom-p text-center">
-										<p data-placement="top" data-toggle="tooltip" title="Desactivar" class="bottom-p">
-											<button class="btn btn-danger btn-xs" data-title="doctorActive" data-toggle="modal" data-target="#doctorActive"><span
+										<p data-placement="top" data-toggle="tooltip" title="Desactivar"
+											class="bottom-p">
+											<button class="btn btn-danger btn-xs" data-title="doctorActive"
+												data-toggle="modal" data-target="#doctorActive"><span
 													class="fa fa-remove"></span></button>
 										</p>
 									</div>
@@ -70,7 +75,8 @@
 
 									<div class="form-group col-sm-4 bottom-p text-center">
 										<p data-placement="top" data-toggle="tooltip" title="Activar" class="bottom-p">
-											<button class="btn btn-success btn-xs" data-title="doctorActive" data-toggle="modal" data-target="#doctorActive"><span
+											<button class="btn btn-success btn-xs" data-title="doctorActive"
+												data-toggle="modal" data-target="#doctorActive"><span
 													class="fa fa-check-square-o"></span></button>
 										</p>
 
@@ -88,9 +94,11 @@
 
 							<td>
 								<div class="row">
-									<div class="form-group col-sm-4 bottom-p text-center" >
-										<p data-placement="top" data-toggle="tooltip" title="Desactivar" class="bottom-p">
-											<button class="btn btn-danger btn-xs" data-title="doctorActive" data-toggle="modal" data-target="#doctorActive"><span
+									<div class="form-group col-sm-4 bottom-p text-center">
+										<p data-placement="top" data-toggle="tooltip" title="Desactivar"
+											class="bottom-p">
+											<button class="btn btn-danger btn-xs" data-title="doctorActive"
+												data-toggle="modal" data-target="#doctorActive"><span
 													class="fa fa-remove"></span></button>
 										</p>
 									</div>
@@ -103,7 +111,8 @@
 
 									<div class="form-group col-sm-4 bottom-p text-center">
 										<p data-placement="top" data-toggle="tooltip" title="Activar" class="bottom-p">
-											<button class="btn btn-success btn-xs" data-title="doctorActive" data-toggle="modal" data-target="#doctorActive"><span
+											<button class="btn btn-success btn-xs" data-title="doctorActive"
+												data-toggle="modal" data-target="#doctorActive"><span
 													class="fa fa-check-square-o"></span></button>
 										</p>
 
@@ -120,8 +129,10 @@
 							<td>
 								<div class="row">
 									<div class="form-group col-sm-4 bottom-p text-center">
-										<p data-placement="top" data-toggle="tooltip" title="Desactivar" class="bottom-p">
-											<button class="btn btn-danger btn-xs" data-title="doctorActive" data-toggle="modal" data-target="#doctorActive"><span
+										<p data-placement="top" data-toggle="tooltip" title="Desactivar"
+											class="bottom-p">
+											<button class="btn btn-danger btn-xs" data-title="doctorActive"
+												data-toggle="modal" data-target="#doctorActive"><span
 													class="fa fa-remove"></span></button>
 										</p>
 									</div>
@@ -134,7 +145,8 @@
 
 									<div class="form-group col-sm-4 bottom-p text-center">
 										<p data-placement="top" data-toggle="tooltip" title="Activar" class="bottom-p">
-											<button class="btn btn-success btn-xs" data-title="doctorActive" data-toggle="modal" data-target="#doctorActive"><span
+											<button class="btn btn-success btn-xs" data-title="doctorActive"
+												data-toggle="modal" data-target="#doctorActive"><span
 													class="fa fa-check-square-o"></span></button>
 										</p>
 
@@ -165,8 +177,7 @@
 
 		</div>
 	</div>
-	</div>
-	</div>
+
 	<!-- se guardo el review -->
 
 	<div class="container">
@@ -194,8 +205,7 @@
 	<!-- comentario fallido  -->
 
 	<div class="container">
-		<div class="modal fade" id="failAlt" tabindex="-1" role="dialog" aria-labelledby="failAlt"
-			aria-hidden="true">
+		<div class="modal fade" id="failAlt" tabindex="-1" role="dialog" aria-labelledby="failAlt" aria-hidden="true">
 			<div class="modal-dialog modal-confirm-red" role="document">
 				<div class="modal-content ">
 					<div class="modal-header">

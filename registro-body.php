@@ -102,10 +102,10 @@
 				</select>
 			</div>
 
-			<div class="form-group col-md-8">
+			<div class="form-group col-md-12">
 				<span class="control-fileupload">
 					<label for="file">Sube una foto :</label>
-					<input type="file" id="file">
+					<input type="file" class="form-control" id="file">
 				</span>
 			</div>
 

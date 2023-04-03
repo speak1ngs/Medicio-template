@@ -164,13 +164,13 @@
 							<div class="form-group">
 								<span class="control-fileupload">
 									<label for="file">Sube una foto :</label>
-									<input type="file" id="file">
+									<input type="file" class="form-control" id="file">
 								</span>
 							</div>
 
 							<div class="form-group">
 								<label for="descript">Modificar descripcion</label>
-								<textarea name="text-description" id="descript" cols="120" rows="5"></textarea>
+								<textarea name="text-description" class="form-control" id="descript" cols="120" rows="5"></textarea>
 							</div>
 
 
