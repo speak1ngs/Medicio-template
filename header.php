@@ -28,22 +28,22 @@
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 
 
-	<!-- 
+
 	<link rel="stylesheet" href="https://cdn.datatables.net/1.13.4/css/jquery.dataTables.css" />
 	<link rel="stylesheet" href="https://cdn.datatables.net/datetime/1.4.0/css/dataTables.dateTime.min.css">
-	<link rel="stylesheet" href="https://editor.datatables.net/extensions/Editor/css/editor.dataTables.min.css">
+	<!-- <link rel="stylesheet" href="https://editor.datatables.net/extensions/Editor/css/editor.dataTables.min.css"> -->
 
-	<script src="./js/dataTables.editor.min.js"></script> -->
+	<!-- <script src="./js/dataTables.editor.min.js"></script> -->
 	<script src="https://code.jquery.com/jquery-3.5.1.js"></script>
 	<script type="text/javascript">
 	var jq = jQuery.noConflict();
-	
-	
-
+	jq(document).ready(function() {
+		jq('#example').DataTable();
+	});
 	</script>
-	<!--
+
 	<script src="https://cdn.datatables.net/datetime/1.4.0/js/dataTables.dateTime.min.js"></script>
-	<script src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.js" type="text/javascript"></script> -->
+	<script src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.js" type="text/javascript"></script>
 
 
 

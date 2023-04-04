@@ -26,7 +26,10 @@
 					<label for="inputPassword4">Password</label>
 					<input type="password" class="form-control" id="inputPassword4" placeholder="Password">
 				</div>
-
+				<div class="form-group col-md-6">
+					<label for="inputTelf">Telefono</label>
+					<input type="text" class="form-control" id="inputTelf" placeholder="Telefono">
+				</div>
 
 				<div class="form-group col-md-6">
 					<label for="inputEdad">Edad</label>
