@@ -40,9 +40,8 @@
 
 								<div class="form-group col-sm-6 bottom-p text-center">
 									<p data-placement="top" data-toggle="tooltip" title="Activar" class="bottom-p">
-										<button class="btn btn-success btn-xs" data-title="asgiOp"
-											data-toggle="modal" data-target="#asgiOp"><span
-												class="fa fa-check-square-o"></span></button>
+										<button class="btn btn-success btn-xs" data-title="asgiOp" data-toggle="modal"
+											data-target="#asgiOp"><span class="fa fa-check-square-o"></span></button>
 									</p>
 
 								</div>
@@ -72,15 +71,15 @@
 
 								<div class="form-group col-sm-6 bottom-p text-center">
 									<p data-placement="top" data-toggle="tooltip" title="Activar" class="bottom-p">
-										<button class="btn btn-success btn-xs" data-title="asgiOp"
-											data-toggle="modal" data-target="#asgiOp"><span
-												class="fa fa-check-square-o"></span></button>
+										<button class="btn btn-success btn-xs" data-title="asgiOp" data-toggle="modal"
+											data-target="#asgiOp"><span class="fa fa-check-square-o"></span></button>
 									</p>
 
 								</div>
 							</div>
 						</td>
-					</tr>					<tr>
+					</tr>
+					<tr>
 						<td>Tiger Nixon</td>
 						<td>04/04/2023</td>
 						<td>15:30</td>
@@ -103,15 +102,15 @@
 
 								<div class="form-group col-sm-6 bottom-p text-center">
 									<p data-placement="top" data-toggle="tooltip" title="Activar" class="bottom-p">
-										<button class="btn btn-success btn-xs" data-title="asgiOp"
-											data-toggle="modal" data-target="#asgiOp"><span
-												class="fa fa-check-square-o"></span></button>
+										<button class="btn btn-success btn-xs" data-title="asgiOp" data-toggle="modal"
+											data-target="#asgiOp"><span class="fa fa-check-square-o"></span></button>
 									</p>
 
 								</div>
 							</div>
 						</td>
-					</tr>					<tr>
+					</tr>
+					<tr>
 						<td>Tiger Nixon</td>
 						<td>04/04/2023</td>
 						<td>15:30</td>
@@ -134,15 +133,15 @@
 
 								<div class="form-group col-sm-6 bottom-p text-center">
 									<p data-placement="top" data-toggle="tooltip" title="Activar" class="bottom-p">
-										<button class="btn btn-success btn-xs" data-title="asgiOp"
-											data-toggle="modal" data-target="#asgiOp"><span
-												class="fa fa-check-square-o"></span></button>
+										<button class="btn btn-success btn-xs" data-title="asgiOp" data-toggle="modal"
+											data-target="#asgiOp"><span class="fa fa-check-square-o"></span></button>
 									</p>
 
 								</div>
 							</div>
 						</td>
-					</tr>					<tr>
+					</tr>
+					<tr>
 						<td>Tiger Nixon</td>
 						<td>04/04/2023</td>
 						<td>15:30</td>
@@ -165,15 +164,15 @@
 
 								<div class="form-group col-sm-6 bottom-p text-center">
 									<p data-placement="top" data-toggle="tooltip" title="Activar" class="bottom-p">
-										<button class="btn btn-success btn-xs" data-title="asgiOp"
-											data-toggle="modal" data-target="#asgiOp"><span
-												class="fa fa-check-square-o"></span></button>
+										<button class="btn btn-success btn-xs" data-title="asgiOp" data-toggle="modal"
+											data-target="#asgiOp"><span class="fa fa-check-square-o"></span></button>
 									</p>
 
 								</div>
 							</div>
 						</td>
-					</tr>					<tr>
+					</tr>
+					<tr>
 						<td>Tiger Nixon</td>
 						<td>04/04/2023</td>
 						<td>15:30</td>
@@ -196,15 +195,15 @@
 
 								<div class="form-group col-sm-6 bottom-p text-center">
 									<p data-placement="top" data-toggle="tooltip" title="Activar" class="bottom-p">
-										<button class="btn btn-success btn-xs" data-title="asgiOp"
-											data-toggle="modal" data-target="#asgiOp"><span
-												class="fa fa-check-square-o"></span></button>
+										<button class="btn btn-success btn-xs" data-title="asgiOp" data-toggle="modal"
+											data-target="#asgiOp"><span class="fa fa-check-square-o"></span></button>
 									</p>
 
 								</div>
 							</div>
 						</td>
-					</tr>					<tr>
+					</tr>
+					<tr>
 						<td>Tiger Nixon</td>
 						<td>04/04/2023</td>
 						<td>15:30</td>
@@ -227,15 +226,15 @@
 
 								<div class="form-group col-sm-6 bottom-p text-center">
 									<p data-placement="top" data-toggle="tooltip" title="Activar" class="bottom-p">
-										<button class="btn btn-success btn-xs" data-title="asgiOp"
-											data-toggle="modal" data-target="#asgiOp"><span
-												class="fa fa-check-square-o"></span></button>
+										<button class="btn btn-success btn-xs" data-title="asgiOp" data-toggle="modal"
+											data-target="#asgiOp"><span class="fa fa-check-square-o"></span></button>
 									</p>
 
 								</div>
 							</div>
 						</td>
-					</tr>					<tr>
+					</tr>
+					<tr>
 						<td>Tiger Nixon</td>
 						<td>04/04/2023</td>
 						<td>15:30</td>
@@ -258,15 +257,15 @@
 
 								<div class="form-group col-sm-6 bottom-p text-center">
 									<p data-placement="top" data-toggle="tooltip" title="Activar" class="bottom-p">
-										<button class="btn btn-success btn-xs" data-title="asgiOp"
-											data-toggle="modal" data-target="#asgiOp"><span
-												class="fa fa-check-square-o"></span></button>
+										<button class="btn btn-success btn-xs" data-title="asgiOp" data-toggle="modal"
+											data-target="#asgiOp"><span class="fa fa-check-square-o"></span></button>
 									</p>
 
 								</div>
 							</div>
 						</td>
-					</tr>					<tr>
+					</tr>
+					<tr>
 						<td>Tiger Nixon</td>
 						<td>04/04/2023</td>
 						<td>15:30</td>
@@ -289,15 +288,15 @@
 
 								<div class="form-group col-sm-6 bottom-p text-center">
 									<p data-placement="top" data-toggle="tooltip" title="Activar" class="bottom-p">
-										<button class="btn btn-success btn-xs" data-title="asgiOp"
-											data-toggle="modal" data-target="#asgiOp"><span
-												class="fa fa-check-square-o"></span></button>
+										<button class="btn btn-success btn-xs" data-title="asgiOp" data-toggle="modal"
+											data-target="#asgiOp"><span class="fa fa-check-square-o"></span></button>
 									</p>
 
 								</div>
 							</div>
 						</td>
-					</tr>					<tr>
+					</tr>
+					<tr>
 						<td>Tiger Nixon</td>
 						<td>04/04/2023</td>
 						<td>15:30</td>
@@ -320,15 +319,15 @@
 
 								<div class="form-group col-sm-6 bottom-p text-center">
 									<p data-placement="top" data-toggle="tooltip" title="Activar" class="bottom-p">
-										<button class="btn btn-success btn-xs" data-title="asgiOp"
-											data-toggle="modal" data-target="#asgiOp"><span
-												class="fa fa-check-square-o"></span></button>
+										<button class="btn btn-success btn-xs" data-title="asgiOp" data-toggle="modal"
+											data-target="#asgiOp"><span class="fa fa-check-square-o"></span></button>
 									</p>
 
 								</div>
 							</div>
 						</td>
-					</tr>					<tr>
+					</tr>
+					<tr>
 						<td>Tiger Nixon</td>
 						<td>04/04/2023</td>
 						<td>15:30</td>
@@ -351,15 +350,15 @@
 
 								<div class="form-group col-sm-6 bottom-p text-center">
 									<p data-placement="top" data-toggle="tooltip" title="Activar" class="bottom-p">
-										<button class="btn btn-success btn-xs" data-title="asgiOp"
-											data-toggle="modal" data-target="#asgiOp"><span
-												class="fa fa-check-square-o"></span></button>
+										<button class="btn btn-success btn-xs" data-title="asgiOp" data-toggle="modal"
+											data-target="#asgiOp"><span class="fa fa-check-square-o"></span></button>
 									</p>
 
 								</div>
 							</div>
 						</td>
-					</tr>					<tr>
+					</tr>
+					<tr>
 						<td>Tiger Nixon</td>
 						<td>04/04/2023</td>
 						<td>15:30</td>
@@ -382,15 +381,15 @@
 
 								<div class="form-group col-sm-6 bottom-p text-center">
 									<p data-placement="top" data-toggle="tooltip" title="Activar" class="bottom-p">
-										<button class="btn btn-success btn-xs" data-title="asgiOp"
-											data-toggle="modal" data-target="#asgiOp"><span
-												class="fa fa-check-square-o"></span></button>
+										<button class="btn btn-success btn-xs" data-title="asgiOp" data-toggle="modal"
+											data-target="#asgiOp"><span class="fa fa-check-square-o"></span></button>
 									</p>
 
 								</div>
 							</div>
 						</td>
-					</tr>					<tr>
+					</tr>
+					<tr>
 						<td>Tiger Nixon</td>
 						<td>04/04/2023</td>
 						<td>15:30</td>
@@ -413,15 +412,15 @@
 
 								<div class="form-group col-sm-6 bottom-p text-center">
 									<p data-placement="top" data-toggle="tooltip" title="Activar" class="bottom-p">
-										<button class="btn btn-success btn-xs" data-title="asgiOp"
-											data-toggle="modal" data-target="#asgiOp"><span
-												class="fa fa-check-square-o"></span></button>
+										<button class="btn btn-success btn-xs" data-title="asgiOp" data-toggle="modal"
+											data-target="#asgiOp"><span class="fa fa-check-square-o"></span></button>
 									</p>
 
 								</div>
 							</div>
 						</td>
-					</tr>					<tr>
+					</tr>
+					<tr>
 						<td>Tiger Nixon</td>
 						<td>04/04/2023</td>
 						<td>15:30</td>
@@ -444,15 +443,15 @@
 
 								<div class="form-group col-sm-6 bottom-p text-center">
 									<p data-placement="top" data-toggle="tooltip" title="Activar" class="bottom-p">
-										<button class="btn btn-success btn-xs" data-title="asgiOp"
-											data-toggle="modal" data-target="#asgiOp"><span
-												class="fa fa-check-square-o"></span></button>
+										<button class="btn btn-success btn-xs" data-title="asgiOp" data-toggle="modal"
+											data-target="#asgiOp"><span class="fa fa-check-square-o"></span></button>
 									</p>
 
 								</div>
 							</div>
 						</td>
-					</tr>					<tr>
+					</tr>
+					<tr>
 						<td>Tiger Nixon</td>
 						<td>04/04/2023</td>
 						<td>15:30</td>
@@ -475,15 +474,15 @@
 
 								<div class="form-group col-sm-6 bottom-p text-center">
 									<p data-placement="top" data-toggle="tooltip" title="Activar" class="bottom-p">
-										<button class="btn btn-success btn-xs" data-title="asgiOp"
-											data-toggle="modal" data-target="#asgiOp"><span
-												class="fa fa-check-square-o"></span></button>
+										<button class="btn btn-success btn-xs" data-title="asgiOp" data-toggle="modal"
+											data-target="#asgiOp"><span class="fa fa-check-square-o"></span></button>
 									</p>
 
 								</div>
 							</div>
 						</td>
-					</tr>					<tr>
+					</tr>
+					<tr>
 						<td>Tiger Nixon</td>
 						<td>04/04/2023</td>
 						<td>15:30</td>
@@ -506,15 +505,15 @@
 
 								<div class="form-group col-sm-6 bottom-p text-center">
 									<p data-placement="top" data-toggle="tooltip" title="Activar" class="bottom-p">
-										<button class="btn btn-success btn-xs" data-title="asgiOp"
-											data-toggle="modal" data-target="#asgiOp"><span
-												class="fa fa-check-square-o"></span></button>
+										<button class="btn btn-success btn-xs" data-title="asgiOp" data-toggle="modal"
+											data-target="#asgiOp"><span class="fa fa-check-square-o"></span></button>
 									</p>
 
 								</div>
 							</div>
 						</td>
-					</tr>					<tr>
+					</tr>
+					<tr>
 						<td>Tiger Nixon</td>
 						<td>04/04/2023</td>
 						<td>15:30</td>
@@ -537,15 +536,15 @@
 
 								<div class="form-group col-sm-6 bottom-p text-center">
 									<p data-placement="top" data-toggle="tooltip" title="Activar" class="bottom-p">
-										<button class="btn btn-success btn-xs" data-title="asgiOp"
-											data-toggle="modal" data-target="#asgiOp"><span
-												class="fa fa-check-square-o"></span></button>
+										<button class="btn btn-success btn-xs" data-title="asgiOp" data-toggle="modal"
+											data-target="#asgiOp"><span class="fa fa-check-square-o"></span></button>
 									</p>
 
 								</div>
 							</div>
 						</td>
-					</tr>					<tr>
+					</tr>
+					<tr>
 						<td>Tir Nin</td>
 						<td>04/04/2023</td>
 						<td>15:30</td>
@@ -568,15 +567,15 @@
 
 								<div class="form-group col-sm-6 bottom-p text-center">
 									<p data-placement="top" data-toggle="tooltip" title="Activar" class="bottom-p">
-										<button class="btn btn-success btn-xs" data-title="asgiOp"
-											data-toggle="modal" data-target="#asgiOp"><span
-												class="fa fa-check-square-o"></span></button>
+										<button class="btn btn-success btn-xs" data-title="asgiOp" data-toggle="modal"
+											data-target="#asgiOp"><span class="fa fa-check-square-o"></span></button>
 									</p>
 
 								</div>
 							</div>
 						</td>
-					</tr>					<tr>
+					</tr>
+					<tr>
 						<td>Manuel Pereira</td>
 						<td>04/04/2023</td>
 						<td>15:30</td>
@@ -599,15 +598,15 @@
 
 								<div class="form-group col-sm-6 bottom-p text-center">
 									<p data-placement="top" data-toggle="tooltip" title="Activar" class="bottom-p">
-										<button class="btn btn-success btn-xs" data-title="asgiOp"
-											data-toggle="modal" data-target="#asgiOp"><span
-												class="fa fa-check-square-o"></span></button>
+										<button class="btn btn-success btn-xs" data-title="asgiOp" data-toggle="modal"
+											data-target="#asgiOp"><span class="fa fa-check-square-o"></span></button>
 									</p>
 
 								</div>
 							</div>
 						</td>
-					</tr>					<tr>
+					</tr>
+					<tr>
 						<td>Manuel Perez</td>
 						<td>04/04/2023</td>
 						<td>15:30</td>
@@ -630,9 +629,8 @@
 
 								<div class="form-group col-sm-6 bottom-p text-center">
 									<p data-placement="top" data-toggle="tooltip" title="Activar" class="bottom-p">
-										<button class="btn btn-success btn-xs" data-title="asgiOp"
-											data-toggle="modal" data-target="#asgiOp"><span
-												class="fa fa-check-square-o"></span></button>
+										<button class="btn btn-success btn-xs" data-title="asgiOp" data-toggle="modal"
+											data-target="#asgiOp"><span class="fa fa-check-square-o"></span></button>
 									</p>
 
 								</div>
@@ -653,8 +651,7 @@
 			</table>
 		</div>
 		<div class="container">
-			<div class="modal fade" id="asgiOp" tabindex="-1" role="dialog" aria-labelledby="asgiOp"
-				aria-hidden="true">
+			<div class="modal fade" id="asgiOp" tabindex="-1" role="dialog" aria-labelledby="asgiOp" aria-hidden="true">
 				<div class="modal-dialog modal-content-scroll" role="document">
 					<div class="modal-content">
 						<div class="modal-header">
@@ -666,16 +663,26 @@
 							<div class="row">
 								<div class="form-group">
 									<div class="col-md-12">
-									<p class="text-center">Paciente: <strong>Juan Perez</strong></p>
+										<p class="text-center">Paciente: <strong>Juan Perez</strong></p>
 									</div>
-								
+
 									<div class="col-md-12">
-									<label for="opNumber" class="text-left">Introduzca Nro de transaccion:</label>
-									<input type="text"  class="form-control" id="opNumber" placeholder="Op. 1239182731">
+										<label for="opNumber" class="text-left">Introduzca Nro de transaccion:</label>
+										<input type="text" class="form-control" id="opNumber"
+											placeholder="Op. 1239182731">
+									</div>
+
+									<div class="col-md-12">
+										<label for="inputState">Medio de pago</label>
+										<select id="inputState" class="form-control">
+											<option selected>Choose...</option>
+											<option>Giros tigo</option>
+											<option>Transferencia bancaria</option>
+										</select>
 									</div>
 								</div>
 							</div>
-							
+
 						</div>
 						<div class="modal-footer ">
 							<button type="button" class="btn btn-warning btn-lg" style="width: 100%;"
