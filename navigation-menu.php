@@ -34,6 +34,8 @@
 				<li><a href="./calendario-doctor.php">Asignar horarios</a></li>
 				<li><a href="./importe-consulta.php">Cargar monto de consulta</a></li>
 				<li><a href="./editar-importe-consulta.php">Editar monto de consultas</a></li>
+				<li><a href="./post.php">Crear post</a></li>
+				<li><a href="./alta-post.php">Dar de alta post</a></li>
 				<li><a href="./changePass.php">Cambiar Contraseña</a></li>
 				<li><a href="./changeEmail.php">Cambiar Correo</a></li>
 				<li><a href="./reservar.php">Reservar Turno</a></li>
@@ -59,6 +61,8 @@
 						<li><a href="./calendario-doctor.php">Asignar horarios</a></li>
 						<li><a href="./importe-consulta.php">Cargar monto de consulta</a></li>
 						<li><a href="./editar-importe-consulta.php">Editar monto de consultas</a></li>
+						<li><a href="./post.php">Crear post</a></li>
+						<li><a href="./alta-post.php">Dar de alta post</a></li>
 						<li><a href="./changePass.php">Cambiar Contraseña</a></li>
 						<li><a href="./changeEmail.php">Cambiar Correo</a></li>
 						<li><a href="./reservar.php">Reservar Turno</a></li>
